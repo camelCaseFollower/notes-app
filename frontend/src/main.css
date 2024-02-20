@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.note-card{
+    max-width:31%;
+}
+
+.list-wrapper{
+    height: calc(100% - 60px)
+}
